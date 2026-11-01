@@ -1,35 +1,85 @@
-# Global Career
+# Global Career Repository
 
-This repository contains research notes, reference documents, and decision-support materials for immigration planning, career evaluation, and consultant due diligence.
+This repository contains research notes and planning documents related to Canada immigration, career decisions, and consultant screening.
 
-## Included documents
+The goal of this README is to help you quickly decide which file to open based on your need.
 
-- `Canada_Immigration_Terms_Glossary.md` — plain-English glossary of Canada immigration and respiratory therapy licensing terminology.
-- `Canada_RT_Immigration_Research_Report.md` — detailed research report on immigrating to Canada as a respiratory therapist from India.
-- `Consultant_Vetting_Checklist.md` — practical checklist for evaluating immigration consultants, lawyers, and agencies before paying any fees.
-- `dubai-vs-india-career-discussion.md` — comparative analysis of career and lifestyle outcomes in Dubai vs India for respiratory therapy and data engineering.
+## 1. Start here
 
-## Purpose
+If you are new to the topic, read in this order:
 
-The material in this repository is intended to help a family make informed decisions about:
+1. `Canada_Immigration_Terms_Glossary.md`
+2. `Consultant_Vetting_Checklist.md`
+3. `Canada_RT_Immigration_Research_Report.md`
+4. `dubai-vs-india-career-discussion.md`
 
-- immigration pathways to Canada
-- professional licensing requirements for respiratory therapists
-- consultant verification and scam prevention
-- career and lifestyle trade-offs between jobs in India and Dubai
+## 2. What each file covers
 
-## Recommended reading order
+### `Canada_Immigration_Terms_Glossary.md`
+This file explains the key terms used in the research.
 
-1. Start with `Canada_Immigration_Terms_Glossary.md` for terminology.
-2. Read `Consultant_Vetting_Checklist.md` before engaging any advisor.
-3. Review `Canada_RT_Immigration_Research_Report.md` for the full Canadian roadmap.
-4. Use `dubai-vs-india-career-discussion.md` for comparative career planning.
+It helps with words like:
+- Express Entry
+- CRS
+- NOC / TEER
+- RCIC / CICC
+- CRTO / NSRRT / CRTA
+- IELTS / CLB
+- PR, ITA, PNP, LMIA
 
-## Notes
+Use this file when you want plain-English explanations before reading the bigger reports.
 
-These documents were compiled for planning and research purposes. Laws, immigration rules, provincial processes, and fee schedules can change over time. Always verify the latest information with official sources and regulators before acting.
+### `Consultant_Vetting_Checklist.md`
+This file is a practical checklist to review any immigration consultant, lawyer, or agency before paying.
+
+It covers:
+- what to ask before hiring anyone
+- how to verify a consultant’s license
+- red flags and scam warnings
+- what a proper contract should include
+- how to compare multiple firms
+
+Use this file before speaking with any advisor or making a payment.
+
+### `Canada_RT_Immigration_Research_Report.md`
+This is the main research document for the Canada move.
+
+It discusses:
+- what a respiratory therapist needs to qualify in Canada
+- Canadian licensing steps and regulator requirements
+- Express Entry and Provincial Nominee Program options
+- salary ranges, provinces, and job market conditions
+- realistic timeline and budget
+- consultant options and common mistakes to avoid
+- official sources to check
+
+Use this file when you want the full picture of the immigration plan.
+
+### `dubai-vs-india-career-discussion.md`
+This file compares career and lifestyle outcomes in Dubai versus India.
+
+It covers:
+- respiratory therapist salaries in Dubai vs India
+- cost of living and purchasing power
+- savings potential
+- data engineer job market and pay
+- whether it makes sense as a couple to move to Dubai
+- timing, visa, and family-related trade-offs
+
+Use this file when you are comparing UAE opportunities against staying in India.
+
+## 3. Quick recommendation
+
+- If you want simple definitions: open the glossary.
+- If you want to protect yourself from bad consultants: open the checklist.
+- If you want the full Canada plan: open the research report.
+- If you want to compare Dubai with India: open the career discussion.
+
+## 4. Important note
+
+These documents are research and planning materials. Rules, fees, and timelines can change. Always verify the latest information on official websites and regulator pages before making decisions.
 
 ---
 
-Prepared for: Mansoor Ahmed & family
+Prepared for: Mansoor Ahmed & family  
 Compiled: 28 October 2026
